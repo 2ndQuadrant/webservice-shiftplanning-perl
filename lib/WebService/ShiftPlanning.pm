@@ -10,6 +10,8 @@ use LWP::Protocol::https;
 
 package WebService::ShiftPlanning;
 
+our $VERSION = 0.01;
+
 =head1 NAME
 
 WebService::ShiftPlanning - Minimal ShiftPlanning API call support for Perl

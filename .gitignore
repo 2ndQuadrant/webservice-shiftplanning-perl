@@ -1,0 +1,12 @@
+Build
+MYMETA.json
+MYMETA.yml
+_build/
+blib/
+META.json
+META.yml
+Makefile.PL
+WebService-ShiftPlanning-0.01.tar.gz
+README
+MANIFEST
+MANIFEST.SKIP.bak
