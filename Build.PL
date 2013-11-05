@@ -18,6 +18,7 @@ my $builder = Module::Build->new(
     requires => {
         'LWP::UserAgent'       => 6.00,
         'LWP::Protocol::https' => 6.00,
+        'JSON'                 => 0,
     },
     add_to_cleanup     => [ 'WebService-ShiftPlanning-*' ],
     create_makefile_pl => 'traditional',
