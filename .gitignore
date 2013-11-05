@@ -10,3 +10,5 @@ WebService-ShiftPlanning-0.01.tar.gz
 README
 MANIFEST
 MANIFEST.SKIP.bak
+Makefile
+pm_to_blib
